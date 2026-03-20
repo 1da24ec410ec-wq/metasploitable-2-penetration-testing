@@ -147,7 +147,7 @@ All screenshots are embedded in the full PDF report:
 
 The complete penetration test report (with all screenshots embedded as evidence) is available as a PDF in this repository:
 
-📥 **[Pentest_Report_Metasploitable2_v2.pdf](./Pentest_Report_Metasploitable2_v2.pdf)**
+📥 **[Pentest_Report_Metasploitable2_v2.pdf](./Pentest_ReportMetasploitable2.pdf)**
 
 ---
 
